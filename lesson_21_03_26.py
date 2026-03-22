@@ -1,4 +1,5 @@
 # 8345356533:AAFKzlM4M3uTitvGs_5mkzKgbgoO4kRY4bk
+#python-telegram-bot версія 22 --> установлена 13.12
 
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters
